@@ -1,15 +1,15 @@
-# The Portfolio of Marco De Luca - Front End Web Developer 🚀
+# The Portfolio of Marco De Luca - Front End Developer 🚀
 
 ![my portfoilio](images/portfolio.jpg)
 
 Welcome to my personal portfolio repository! This portfolio showcases my work, skills, and projects that reflect my journey as a Front-End Web developer. Here, you’ll find a variety of projects that highlight my abilities including front-end development, responsive design and javascript.
 
 ## Table of Contents 📋<br/>
-About<br/>
-Skills<br/>
-Features<br/>
-Installation<br/>
-Contact<br/>
+[About](#about)<br/>
+[Skills](#skills)<br/>
+[Features](#features)<br/>
+[Installation](#installation)<br/>
+[Contact](#contact)<br/>
 
 ## About 👨🏻‍💻
 This portfolio was created to demonstrate my expertise and growth in various technical and creative areas. Each project provides a hands-on demonstration of different tools, technologies, and problem-solving techniques. I hope this portfolio gives you an insight into my approach to tackling challenges and creating impactful solutions.
